@@ -135,7 +135,7 @@ class App extends StatelessWidget {
                   child: const CurrencyCard(
                     name: 'Dollar',
                     code: 'USD',
-                    amount: '428',
+                    amount: '429',
                     icon: Icons.attach_money_outlined,
                     isInverted: false,
                   ),
